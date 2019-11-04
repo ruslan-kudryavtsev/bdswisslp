@@ -1,5 +1,5 @@
 //timer
-var deadline = new Date("nov 05, 2019 11:27:25").getTime();
+var deadline = new Date("nov 05, 2019 22:00:25").getTime();
 
 var x = setInterval(function() {
   var now = new Date().getTime();
